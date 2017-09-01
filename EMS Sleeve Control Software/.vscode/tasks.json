@@ -1,0 +1,10 @@
+{
+	"version": "0.1.0",
+    "command": "c:\\Python27\\python",
+    "isShellCommand": true,
+    "showOutput": "always",
+    "args": [
+        "${file}"
+    ]
+    
+}
